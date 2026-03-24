@@ -38,6 +38,7 @@ This is a curated collection of **production-ready** tools and frameworks for bu
 - [Learning Resources](#-learning-resources)
 - [How to Choose Your Stack](#-how-to-choose-your-stack)
 - [Real-World Case Studies](#-real-world-case-studies)
+- [Templates & Scripts](#-templates--scripts)
 - [Contributing](#-contributing)
 - [Author](#-author)
 
@@ -335,6 +336,19 @@ Reduce AI/API costs, monitor spend, optimize LLM usage. Critical for scaling aut
 
 ---
 
+## 🛠️ Templates & Scripts
+
+Ready-to-use automation templates with detailed setup guides and ROI calculations.
+
+### **AI Invoice Parser** ⭐ NEW
+- **[AI-Powered Invoice Parser](./templates/ai-invoice-parser/)** — Python script that uses Claude's vision API to extract structured data from any invoice (PDF, image, scanned). Outputs clean JSON with line items, GST breakdowns, vendor details.
+- 🏷️ **Cost:** ₹350/month for 200 invoices (vs ₹20,000 manual)
+- 👍 **Best for:** Indian businesses processing 50-1000+ invoices/month
+- **Saves:** ₹15,000-24,000/month from Day 1 — 96% cost reduction vs manual data entry
+- **Stack:** Python + Claude Sonnet 4.6 API
+
+---
+
 ## 🤝 Contributing
 
 1. **Fork this repo** and create a feature branch
@@ -367,5 +381,4 @@ This project is licensed under the **MIT License** — see [LICENSE](LICENSE) fi
 
 ---
 
-**Last updated:** March 21, 2026 | **Maintained by:** [Archit Mittal](https://architmittal.com) — Business Automation Expert | **Brand:** "I Automate Chaos" ⚡# awesome-business-automation
-A curated list of 40+ business automation tools, frameworks, and resources with real ROI case studies and decision frameworks.
+**Last updated:** March 24, 2026 | **Maintained by:** [Archit Mittal](https://architmittal.com) — Business Automation Expert | **Brand:** "I Automate Chaos" ⚡
